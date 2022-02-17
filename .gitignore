@@ -1,5 +1,4 @@
 *.bat
-*.yml
 _src/node_modules/
 config/settings_data.json
 .idea/
